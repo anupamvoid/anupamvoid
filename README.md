@@ -13,7 +13,7 @@
 
 - All of my projects are available at [kono-studio.vercel.app](kono-studio.vercel.app)
 
-- Let's talk about: **Full-stack Systems • GenAI Applications • Data Science**
+- Let's talk about: **Full-stack Development • GenAI Applications • Data Science**
 
 - Connect with me: **anupam.nitrkl@gmail.com**
 
