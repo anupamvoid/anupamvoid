@@ -19,7 +19,7 @@
 
 - Know about my experiences [Here is my CV!](https://drive.google.com/file/d/1VMsiGZRkd8wmSqt8Lh73ZnPjs0KBXXZn/view?usp=sharing)
 
-- ⚡ Fun fact **People say I am funny**
+- Fun fact **People say I am funny**
 
 
 <h3 align="left">Connect with me:</h3>
